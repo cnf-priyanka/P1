@@ -1,0 +1,6 @@
+127.0.0.1 - - [21/Sep/2015:16:15:36 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [21/Sep/2015:16:15:42 +0530] "GET /ManpowerProvided/WEB-INF/classes/com/priya/service/MpDetails.java HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [21/Sep/2015:16:20:47 +0530] "GET /ManpowerProvided/ HTTP/1.1" 500 6600
+0:0:0:0:0:0:0:1 - - [21/Sep/2015:16:24:18 +0530] "GET /ManpowerProvided/ HTTP/1.1" 500 6600
+127.0.0.1 - - [21/Sep/2015:16:26:40 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [21/Sep/2015:16:26:40 +0530] "GET /ManpowerProvided/ HTTP/1.1" 404 1028

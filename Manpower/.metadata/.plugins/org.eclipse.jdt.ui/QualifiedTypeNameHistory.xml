@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.TemporalType"/>
+<fullyQualifiedTypeName name="javax.persistence.Temporal"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.priya.dao.ManpowerDAO"/>
+<fullyQualifiedTypeName name="com.priya.entity.ManpowerDetails"/>
+<fullyQualifiedTypeName name="com.priya.service.MpDetails"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
+</qualifiedTypeNameHistroy>

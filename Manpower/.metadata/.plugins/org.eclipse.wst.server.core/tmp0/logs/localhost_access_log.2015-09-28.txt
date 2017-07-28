@@ -1,0 +1,2 @@
+127.0.0.1 - - [28/Sep/2015:11:28:28 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [28/Sep/2015:11:28:32 +0530] "GET /ManpowerProvided/WEB-INF/classes/ABC.java HTTP/1.1" 404 1076

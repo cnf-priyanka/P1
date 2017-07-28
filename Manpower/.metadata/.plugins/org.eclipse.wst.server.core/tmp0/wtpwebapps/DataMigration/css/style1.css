@@ -1,0 +1,39 @@
+/* 
+    Document   : style1
+    Created on : Jul 14, 2015, 12:37:00 PM
+    Author     : Ankur
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+.Table{   
+   border-collapse:collapse;
+   border:1px solid #000000;
+   
+      
+}
+
+.TableHeader{
+    font-size: larger;
+   text-align:center;
+   background:rgb(181, 181, 198) none repeat scroll 0px 0px;
+   border-bottom:1px solid #000000;  
+   padding:2px;
+}
+
+.TableOddRow{
+    font-size: larger;
+   text-align:center;
+   background:none repeat scroll 0 0 #FFFFFFF;	
+}
+
+.TableEvenRow{
+    font-size: larger;
+   text-align:center;
+   background:rgb(45, 170, 228) none repeat scroll 0px 0px;
+}
