@@ -1,0 +1,5 @@
+package org.confo.dao;
+
+public class UserDaoImpl {
+
+}

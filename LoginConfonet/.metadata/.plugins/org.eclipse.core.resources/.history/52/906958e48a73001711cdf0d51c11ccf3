@@ -1,0 +1,5 @@
+package org.confo.Model;
+
+public class Login {
+
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ConfonetPO">
+        <property name="context-root" value="ConfonetPO"/>
+        <property name="java-output-path" value="/ConfonetPO/build/classes"/>
+    </wb-module>
+</project-modules>
